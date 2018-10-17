@@ -5,7 +5,7 @@ This app makes your computer recognize the position of your head (front or profi
 
 ##
 
-### USED TOOLS:
+### USED TOOLS
 * HTML
 * CSS
 * JavaScript
