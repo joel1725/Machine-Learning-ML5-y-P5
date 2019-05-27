@@ -10,7 +10,7 @@ Two very powerful tools that you can find in these links:
 
 ### Repositories
 
-* [](classifyer)
+* [https://github.com/joel1725/Machine-Learning-ML5-y-P5/tree/master/classifyer](classifyer)
 ###### Example of how to train a machine learning model using the camera of your pc, this model indicates whether you have the face in profile or in front.
 
 ## 
