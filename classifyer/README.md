@@ -1,7 +1,7 @@
 # Machine Learning ML5 y P5
 This app makes your computer recognize the position of your head (front or profile), and tell you by machine learning if is in frontal or profile position in real time.
 
-![Image proyect presentation](/img/guide/0-loader.gif)
+![Image proyect presentation](/classifyer/img/guide/0-loader.gif)
 
 ##
 
@@ -37,10 +37,10 @@ Download it all observe the magic.
 
 #### GUIDE
 0. Start the aplication by running index.html on chrome browser.
-1. [Take at least 5 frontal pictures of your face.](/img/guide/1-take-frontal-picture.jpg)
-2. [Take at least 5 pictures of your face profile.](/img/guide/2-take-profile-picture.jpg)
-3. [Train the model](/img/guide/3-train-the-model.jpg)
-4. [Change the position of your face, from frontal to profile, and see the magic.](/img/guide/4-see-the-magic.jpg)
+1. [Take at least 5 frontal pictures of your face.](/classifyer/img/guide/1-take-frontal-picture.jpg)
+2. [Take at least 5 pictures of your face profile.](/classifyer/img/guide/2-take-profile-picture.jpg)
+3. [Train the model](/classifyer/img/guide/3-train-the-model.jpg)
+4. [Change the position of your face, from frontal to profile, and see the magic.](/classifyer/img/guide/4-see-the-magic.jpg)
 
 ##
 
