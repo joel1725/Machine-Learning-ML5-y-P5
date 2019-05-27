@@ -1,4 +1,4 @@
-# Machine-Learning-ML5-y-P5
+# Machine Learning ML5 y P5
 This app makes your computer recognize the position of your head (front or profile), and tell you by machine learning if is in frontal or profile position in real time.
 
 ![Image proyect presentation](/img/guide/0-loader.gif)
