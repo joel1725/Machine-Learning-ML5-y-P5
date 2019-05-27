@@ -3,14 +3,14 @@ This is a repository of repositories, created with the intention of showing the 
 
 Two very powerful tools that you can find in these links:
 
-* [https://ml5js.org/](ML5)
-* [https://p5js.org/](P5js)
+* [ML5](https://ml5js.org/)
+* [P5js](https://p5js.org/)
 
 ##
 
 ### Repositories
 
-* [https://github.com/joel1725/Machine-Learning-ML5-y-P5/tree/master/classifyer](classifyer)
+* [classifyer](https://github.com/joel1725/Machine-Learning-ML5-y-P5/tree/master/classifyer)
 ###### Example of how to train a machine learning model using the camera of your pc, this model indicates whether you have the face in profile or in front.
 
 ## 
